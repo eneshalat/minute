@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "minute",
+    "minute-server",
+]
